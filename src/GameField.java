@@ -7,6 +7,7 @@ import java.awt.event.KeyEvent;
 import java.util.Random;
 
 
+
 public class GameField extends JPanel implements ActionListener{
 
     private static boolean created = false;
